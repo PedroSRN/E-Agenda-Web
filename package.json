@@ -1,0 +1,12 @@
+{
+  "name": "e-agenda-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

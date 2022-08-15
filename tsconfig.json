@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    
+    "target": "es2017",                                  /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
+    "module": "eS6", 
+    "moduleResolution": "node",                               /* Specify what module code is generated. */
+    "strict": true,  
+    "strictPropertyInitialization": false,
+    "noUnusedLocals": false,
+    "noUnusedParameters": true,                            /* Specify an output folder for all emitted files. */   
+    "noImplicitReturns": true,
+    "skipLibCheck": true ,                               /* Skip type checking all .d.ts files. */
+    "rootDir": "./src",                                  /* Specify the root folder within your source files. */                                /* Specify a file that bundles all outputs into one JavaScript file. If 'declaration' is true, also designates a file that bundles all .d.ts output. */
+    "outDir": "./dist"       
+ 
+  }
+}
