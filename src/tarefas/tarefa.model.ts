@@ -4,7 +4,7 @@ import { Prioridade } from "./prioridade.enum.js";
 //extends = Herdando dados
 //implements = implementando interfaces
 
-export class Tarefa extends EntidadeBase{
+export class Tarefa extends EntidadeBase {
     public descricao: string;
     public prioridade: Prioridade;
     public dataCriacao: Date;
